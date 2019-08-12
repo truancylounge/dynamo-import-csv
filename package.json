@@ -1,0 +1,12 @@
+{
+  "name": "CSVtoDynamoDB",
+  "description": "Export Csv data into Dynamo",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
